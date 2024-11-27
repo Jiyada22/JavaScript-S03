@@ -1,2 +1,2 @@
 # JavaScript-S03
-repo to learn
+Repo to learn JavaScript
