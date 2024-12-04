@@ -11,11 +11,11 @@ const printHello = () => {
 printHello(); // prints: hello
 
 //Arrow funchions with a single argument
-const chckWeight = (wight) => {
+const checkWeight = (weight) => {
     console.log(`Baggage weight : ${weight} kilograms.`);
 };
-chckWeight(25); //Prints: Baggage weight : 25 kilograms.
+checkWeight(25); //Prints: Baggage weight : 25 kilograms.
 
 //Concise arrow functions
-const multiply = (a,b) => a*b;
+const multiply = (a,b) => a * b;
 console.log(multiply(2,30)); //Prints:60

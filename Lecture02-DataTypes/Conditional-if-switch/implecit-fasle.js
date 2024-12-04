@@ -1,4 +1,4 @@
-const name = '';
+const name = 'toon';
 
 if(name) {
     console.log('We have a name!');
